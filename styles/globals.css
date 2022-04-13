@@ -14,3 +14,15 @@ a {
 * {
   box-sizing: border-box;
 }
+.email-section{
+  width: 70%;
+  margin: auto;
+  background-color: blue;
+  margin-bottom: 70px;
+}
+.footer-icon{
+  margin: 10px;
+  background-color: #2C303A;
+  padding: 10px;
+  border-radius: 10px;
+}
